@@ -1,0 +1,80 @@
+name: Scrape Gym Availability
+
+on:
+  schedule:
+    # Runs at minute 15 past every hour from 23:00 to 13:00 UTC
+    # 23:00 UTC = 08:00 JST, 13:00 UTC = 22:00 JST
+    # Result: 08:15 JST to 22:15 JST hourly
+    - cron: '15 23-23,0-13 * * *'
+  workflow_dispatch: # Allows manual trigger from the GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    # Needs write permission to commit back to the repo and deploy to GitHub Pages
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    - name: Run Scraper Script
+      env:
+        # Secret injected from GitHub repository settings
+        DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      run: |
+        python cloud_scraper.py
+        
+    - name: Commit and Push state changes
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
+        # Only add files we generated so we don't accidentally add garbage
+        git add state.json history.html || true
+        git commit -m "Automated update of state and history [skip ci]" || echo "No changes to commit"
+        git push origin main || echo "Nothing to push"
+
+  # Deploy history.html to GitHub Pages
+  deploy-pages:
+    needs: scrape
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          # Important: Fetch the latest commit made by the 'scrape' job above
+          ref: main
+          
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload the root directory (history.html lives here)
+          path: '.'
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
