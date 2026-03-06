@@ -5,7 +5,7 @@ on:
     # Runs at minute 15 past every hour from 23:00 to 13:00 UTC
     # 23:00 UTC = 08:00 JST, 13:00 UTC = 22:00 JST
     # Result: 08:15 JST to 22:15 JST hourly
-    - cron: '15 23-23,0-13 * * *'
+    - cron: '15 23,0-13 * * *'
   workflow_dispatch: # Allows manual trigger from the GitHub UI
 
 jobs:
