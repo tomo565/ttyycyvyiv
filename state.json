@@ -1,15 +1,5 @@
 {
-  "known_slots": {
-    "千種生涯学習センター_2026-05-30_morning": {
-      "found_at": 1772883957,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    }
-  },
+  "known_slots": {},
   "history": [
     {
       "timestamp": "2026/03/07 20:45:57",
