@@ -1,23 +1,5 @@
 {
   "known_slots": {
-    "東生涯学習センター_2026-05-02_afternoon": {
-      "found_at": 1773496777,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "中生涯学習センター_2026-05-09_morning": {
-      "found_at": 1773496777,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
     "熱田生涯学習センター_2026-05-03_afternoon": {
       "found_at": 1773496777,
       "burst_count": 10,
@@ -27,107 +9,8 @@
         "19": false
       }
     },
-    "熱田生涯学習センター_2026-05-16_morning": {
-      "found_at": 1773496777,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "瑞穂生涯学習センター_2026-05-16_afternoon": {
-      "found_at": 1773532670,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "中川生涯学習センター_2026-05-03_evening": {
-      "found_at": 1773532670,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "中川生涯学習センター_2026-05-16_morning": {
-      "found_at": 1773532670,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "中川生涯学習センター_2026-05-24_afternoon": {
-      "found_at": 1773532670,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "守山生涯学習センター_2026-05-02_morning": {
-      "found_at": 1773532670,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "守山生涯学習センター_2026-05-02_afternoon": {
-      "found_at": 1773532670,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "守山生涯学習センター_2026-05-03_morning": {
-      "found_at": 1773532670,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "守山生涯学習センター_2026-05-09_morning": {
-      "found_at": 1773532670,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "守山生涯学習センター_2026-05-23_morning": {
-      "found_at": 1773532670,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "名東生涯学習センター_2026-05-02_evening": {
-      "found_at": 1773532670,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "天白生涯学習センター_2026-05-02_morning": {
-      "found_at": 1773532670,
+    "南生涯学習センター_2026-05-02_afternoon": {
+      "found_at": 1773553575,
       "burst_count": 10,
       "reminders_sent": {
         "12": false,
@@ -220,6 +103,10 @@
     {
       "timestamp": "2026/03/15 08:57:50",
       "message": "🎉 【新規空き発見！】 **天白生涯学習センター** の **2026-05-02** の **午前** に空きが出ました！"
+    },
+    {
+      "timestamp": "2026/03/15 14:46:15",
+      "message": "🎉 【新規空き発見！】 **南生涯学習センター** の **2026-05-02** の **午後** に空きが出ました！"
     }
   ]
 }
