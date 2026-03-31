@@ -26,24 +26,6 @@
         "15": true,
         "19": true
       }
-    },
-    "中川生涯学習センター_2026-04-04_morning": {
-      "found_at": 1774655939,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": true,
-        "19": true
-      }
-    },
-    "緑生涯学習センター_2026-05-02_evening": {
-      "found_at": 1774867821,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": true
-      }
     }
   },
   "history": [
