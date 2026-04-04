@@ -33,7 +33,7 @@
       "reminders_sent": {
         "12": false,
         "15": false,
-        "19": false
+        "19": true
       }
     }
   },
