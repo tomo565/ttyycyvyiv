@@ -27,21 +27,12 @@
         "19": true
       }
     },
-    "中川生涯学習センター_2026-05-03_afternoon": {
-      "found_at": 1775965515,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": true,
-        "15": true,
-        "19": true
-      }
-    },
     "名東生涯学習センター_2026-06-21_afternoon": {
       "found_at": 1776082207,
       "burst_count": 10,
       "reminders_sent": {
         "12": true,
-        "15": false,
+        "15": true,
         "19": false
       }
     },
@@ -50,7 +41,7 @@
       "burst_count": 10,
       "reminders_sent": {
         "12": true,
-        "15": false,
+        "15": true,
         "19": false
       }
     }
