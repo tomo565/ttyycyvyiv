@@ -27,29 +27,11 @@
         "19": true
       }
     },
-    "昭和生涯学習センター_2026-06-06_morning": {
-      "found_at": 1776165528,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "瑞穂生涯学習センター_2026-06-06_afternoon": {
-      "found_at": 1776211120,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
     "中川生涯学習センター_2026-04-18_morning": {
       "found_at": 1776211120,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": false
       }
@@ -58,34 +40,16 @@
       "found_at": 1776211120,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": false
       }
     },
-    "緑生涯学習センター_2026-06-06_evening": {
-      "found_at": 1776211120,
+    "名東生涯学習センター_2026-06-21_afternoon": {
+      "found_at": 1776224349,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "緑生涯学習センター_2026-06-07_afternoon": {
-      "found_at": 1776211120,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "緑生涯学習センター_2026-06-27_evening": {
-      "found_at": 1776211120,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": false
       }
@@ -311,6 +275,10 @@
     {
       "timestamp": "2026/04/15 08:58:40",
       "message": "🎉 【新規空き発見！】 **緑生涯学習センター** の **2026-06-27** の **夜間** に空きが出ました！"
+    },
+    {
+      "timestamp": "2026/04/15 12:39:09",
+      "message": "🎉 【新規空き発見！】 **名東生涯学習センター** の **2026-06-21** の **午後** に空きが出ました！"
     }
   ]
 }
