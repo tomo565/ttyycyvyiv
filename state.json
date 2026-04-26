@@ -31,7 +31,7 @@
       "found_at": 1777108126,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": true
       }
@@ -40,16 +40,7 @@
       "found_at": 1777108126,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": true
-      }
-    },
-    "名東生涯学習センター_2026-05-02_evening": {
-      "found_at": 1777111462,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": true
       }
