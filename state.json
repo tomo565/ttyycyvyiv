@@ -31,7 +31,7 @@
       "found_at": 1777635126,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": false
       }
