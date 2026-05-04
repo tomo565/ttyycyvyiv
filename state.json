@@ -42,7 +42,7 @@
       "reminders_sent": {
         "12": false,
         "15": false,
-        "19": false
+        "19": true
       }
     },
     "中川生涯学習センター_2026-05-03_evening": {
@@ -51,7 +51,7 @@
       "reminders_sent": {
         "12": false,
         "15": false,
-        "19": false
+        "19": true
       }
     }
   },
