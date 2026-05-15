@@ -63,78 +63,6 @@
         "19": true
       }
     },
-    "東生涯学習センター_2026-07-04_morning": {
-      "found_at": 1778763831,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "東生涯学習センター_2026-07-11_morning": {
-      "found_at": 1778763831,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "東生涯学習センター_2026-07-11_afternoon": {
-      "found_at": 1778763831,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "東生涯学習センター_2026-07-18_morning": {
-      "found_at": 1778763831,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "中生涯学習センター_2026-07-11_afternoon": {
-      "found_at": 1778763831,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "中生涯学習センター_2026-07-25_afternoon": {
-      "found_at": 1778763831,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "昭和生涯学習センター_2026-07-18_morning": {
-      "found_at": 1778763831,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "昭和生涯学習センター_2026-07-25_morning": {
-      "found_at": 1778763831,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
     "瑞穂生涯学習センター_2026-07-18_morning": {
       "found_at": 1778763831,
       "burst_count": 10,
@@ -144,8 +72,8 @@
         "19": false
       }
     },
-    "熱田生涯学習センター_2026-07-18_morning": {
-      "found_at": 1778763831,
+    "中村生涯学習センター_2026-07-12_afternoon": {
+      "found_at": 1778803714,
       "burst_count": 10,
       "reminders_sent": {
         "12": false,
@@ -153,8 +81,17 @@
         "19": false
       }
     },
-    "名東生涯学習センター_2026-07-19_afternoon": {
-      "found_at": 1778763831,
+    "中川生涯学習センター_2026-07-26_evening": {
+      "found_at": 1778803714,
+      "burst_count": 10,
+      "reminders_sent": {
+        "12": false,
+        "15": false,
+        "19": false
+      }
+    },
+    "港生涯学習センター_2026-07-11_morning": {
+      "found_at": 1778803714,
       "burst_count": 10,
       "reminders_sent": {
         "12": false,
@@ -467,6 +404,18 @@
     {
       "timestamp": "2026/05/14 22:03:51",
       "message": "🎉 【新規空き発見！】 **名東生涯学習センター** の **2026-07-19** の **午後** に空きが出ました！"
+    },
+    {
+      "timestamp": "2026/05/15 09:08:34",
+      "message": "🎉 【新規空き発見！】 **中村生涯学習センター** の **2026-07-12** の **午後** に空きが出ました！"
+    },
+    {
+      "timestamp": "2026/05/15 09:08:34",
+      "message": "🎉 【新規空き発見！】 **中川生涯学習センター** の **2026-07-26** の **夜間** に空きが出ました！"
+    },
+    {
+      "timestamp": "2026/05/15 09:08:34",
+      "message": "🎉 【新規空き発見！】 **港生涯学習センター** の **2026-07-11** の **午前** に空きが出ました！"
     }
   ]
 }
