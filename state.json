@@ -60,7 +60,7 @@
       "reminders_sent": {
         "12": true,
         "15": true,
-        "19": false
+        "19": true
       }
     },
     "南生涯学習センター_2026-07-19_afternoon": {
@@ -69,7 +69,7 @@
       "reminders_sent": {
         "12": true,
         "15": true,
-        "19": false
+        "19": true
       }
     },
     "瑞穂生涯学習センター_2026-05-16_morning": {
@@ -78,7 +78,7 @@
       "reminders_sent": {
         "12": false,
         "15": true,
-        "19": false
+        "19": true
       }
     }
   },
