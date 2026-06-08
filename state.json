@@ -80,24 +80,6 @@
         "15": true,
         "19": true
       }
-    },
-    "港生涯学習センター_2026-07-26_afternoon": {
-      "found_at": 1780824866,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": true,
-        "19": false
-      }
-    },
-    "中生涯学習センター_2026-06-20_morning": {
-      "found_at": 1780898771,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": true,
-        "19": false
-      }
     }
   },
   "history": [
