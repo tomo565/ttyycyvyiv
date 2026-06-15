@@ -108,44 +108,8 @@
         "19": false
       }
     },
-    "中川生涯学習センター_2026-08-02_evening": {
-      "found_at": 1781487611,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "中川生涯学習センター_2026-08-09_afternoon": {
-      "found_at": 1781487611,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "中川生涯学習センター_2026-08-09_evening": {
-      "found_at": 1781487611,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "中川生涯学習センター_2026-08-16_afternoon": {
-      "found_at": 1781487611,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "港生涯学習センター_2026-08-15_morning": {
-      "found_at": 1781487611,
+    "港生涯学習センター_2026-07-04_morning": {
+      "found_at": 1781509001,
       "burst_count": 10,
       "reminders_sent": {
         "12": false,
@@ -594,6 +558,10 @@
     {
       "timestamp": "2026/06/15 10:40:11",
       "message": "🎉 【新規空き発見！】 **港生涯学習センター** の **2026-08-15** の **午前** に空きが出ました！"
+    },
+    {
+      "timestamp": "2026/06/15 16:36:41",
+      "message": "🎉 【新規空き発見！】 **港生涯学習センター** の **2026-07-04** の **午前** に空きが出ました！"
     }
   ]
 }
