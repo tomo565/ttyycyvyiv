@@ -90,20 +90,11 @@
         "19": true
       }
     },
-    "東生涯学習センター_2026-07-25_evening": {
-      "found_at": 1783942042,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
     "名東生涯学習センター_2026-09-26_evening": {
       "found_at": 1783942042,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": false
       }
@@ -112,7 +103,7 @@
       "found_at": 1783955351,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": false
       }
@@ -121,7 +112,7 @@
       "found_at": 1783955351,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": false
       }
@@ -130,7 +121,7 @@
       "found_at": 1783955351,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": false
       }
@@ -139,7 +130,7 @@
       "found_at": 1783955351,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": false
       }
@@ -148,7 +139,7 @@
       "found_at": 1783955351,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": false
       }
