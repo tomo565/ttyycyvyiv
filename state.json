@@ -96,7 +96,7 @@
       "reminders_sent": {
         "12": true,
         "15": true,
-        "19": false
+        "19": true
       }
     },
     "熱田生涯学習センター_2026-08-16_afternoon": {
@@ -105,7 +105,7 @@
       "reminders_sent": {
         "12": true,
         "15": true,
-        "19": false
+        "19": true
       }
     },
     "東生涯学習センター_2026-07-25_afternoon": {
@@ -114,7 +114,7 @@
       "reminders_sent": {
         "12": true,
         "15": true,
-        "19": false
+        "19": true
       }
     },
     "名東生涯学習センター_2026-07-25_morning": {
@@ -123,7 +123,7 @@
       "reminders_sent": {
         "12": true,
         "15": true,
-        "19": false
+        "19": true
       }
     }
   },
