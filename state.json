@@ -113,16 +113,7 @@
       "burst_count": 10,
       "reminders_sent": {
         "12": true,
-        "15": false,
-        "19": false
-      }
-    },
-    "東生涯学習センター_2026-08-09_afternoon": {
-      "found_at": 1785556051,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": true,
-        "15": false,
+        "15": true,
         "19": false
       }
     }
