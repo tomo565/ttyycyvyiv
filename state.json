@@ -121,7 +121,7 @@
       "found_at": 1786622265,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": true,
         "19": true
       }
@@ -130,7 +130,7 @@
       "found_at": 1786705762,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": false
       }
@@ -139,7 +139,7 @@
       "found_at": 1786758482,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": false
       }
@@ -148,7 +148,7 @@
       "found_at": 1786758482,
       "burst_count": 10,
       "reminders_sent": {
-        "12": false,
+        "12": true,
         "15": false,
         "19": false
       }
