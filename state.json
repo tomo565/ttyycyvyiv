@@ -132,7 +132,7 @@
       "reminders_sent": {
         "12": true,
         "15": true,
-        "19": false
+        "19": true
       }
     },
     "南生涯学習センター_2026-10-24_morning": {
@@ -141,7 +141,7 @@
       "reminders_sent": {
         "12": true,
         "15": true,
-        "19": false
+        "19": true
       }
     }
   },
