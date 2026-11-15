@@ -134,42 +134,6 @@
         "15": true,
         "19": true
       }
-    },
-    "北生涯学習センター_2027-01-30_morning": {
-      "found_at": 1794710275,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "中川生涯学習センター_2027-01-17_afternoon": {
-      "found_at": 1794710275,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "港生涯学習センター_2027-01-16_morning": {
-      "found_at": 1794710275,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
-    },
-    "南生涯学習センター_2027-01-16_afternoon": {
-      "found_at": 1794710275,
-      "burst_count": 10,
-      "reminders_sent": {
-        "12": false,
-        "15": false,
-        "19": false
-      }
     }
   },
   "history": [
